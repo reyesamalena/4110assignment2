@@ -1,0 +1,11 @@
+Overview:
+	.txt files contain the first 2000 words of the first chapter for each novel in English, French, and Spanish.
+	Hist.txt files are the output files after program has scanned the .txt files and counted the frequency of each letter.
+	After compiling, when you run the program, it will print the codes for each letter for the novels in their original languages and in their translated languages.
+
+
+Compile:
+	g++ p4.cpp
+
+Run: 
+	./a.out
