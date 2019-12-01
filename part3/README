@@ -1,0 +1,13 @@
+Overview:
+        Takes the mistyped word in the first position in the string array called strs and the suggested words in the rest of the array.
+        Loops through and finds the number of differences between each suggested word and the mistyped word while keeping track of the lowest differences.
+        Prints out each word and the number of differences.
+        Then prints out the suggested word/words with the lowest number of differences.
+
+Compile:
+        g++ differences.cpp
+Run:
+        ./a.out
+
+Change Words:
+        edit the strs string array inside the main function of differences.cpp
